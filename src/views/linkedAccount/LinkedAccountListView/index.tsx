@@ -5,7 +5,7 @@ import GtBankIcon from "./../../../assets/gtbank.svg";
 
 const index = () => {
   return (
-    <section className=" pt-14 md:pt-0">
+    <section className="pt-14 md:pt-0">
       <div className="md:flex gap-16">
         <div className="w-full">
           <div className="pt-7 pb-24 text-center">

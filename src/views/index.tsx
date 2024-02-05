@@ -15,7 +15,7 @@ const Index = () => {
       <Route path="/signin" element={<LoginForm />} />
       <Route path="/signup" element={<SignupForm />} />
       <Route
-        path="/dashboard"
+        path="/"
         element={
           <Layout showModal={showModal}>
             <Dashboard showModal={showModal} />
